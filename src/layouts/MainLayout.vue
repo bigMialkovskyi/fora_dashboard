@@ -8,7 +8,7 @@
         </n-icon>
 
         <h1>ФОРА ТОВ</h1>
-        <!-- <h1>Мій Dashboard</h1> -->
+        <!-- <h1>Мій Dashboardd</h1> -->
 
         <!-- Додаткова іконка (якщо потрібна) -->
         <!-- <ion-icon name="apps-outline"></ion-icon> -->
